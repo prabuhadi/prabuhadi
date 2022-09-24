@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<h1 style="color: lightblue; font-family: courter new">WELCOME TO MY BLOG</h1>
+	</head>
+	<hr>
+	<body>
+		<header>My Profile</header>
+		<p style="color: yellow; background-color: darkgreen;">I'm 23 years old and some how struggle into world of programming. To be honest i dont know where to start but lets say no pain no gain so lets get with all in.</p>
+		<pre>
+			<p>- 👀 I’m interested in Computer Programming since i was child and until now I still learning about computer and programs which until now the technologies era continues to develop</p>
+			<p>- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Python, Java, PHP, Bootstrap, W3.CSS, C, C++, C#, Node.js, React, R, Jquery, Django, Typescript.</p>
+			<p>- 💞️ I’m looking to collaborate on project that somewhat use for corporation and education purposes. And aiming to be front-end developer, back-end developer and fullstack developer.</p>
+		</pre>
+	</body>
+</html>
