@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+	<body>
+		<div>
+			<h1><header>Education Solution</header></h1>
+		</div>
+		<div>
+			<p>We are consultant education solutions who provide an useful technology that can be implemented in learning and teaching system. We have school management system, school infrastructure, telecommuting and video conferencing also partnership to support us.</p>
+		</div>
+		<div>
+			<footer>
+			<h3>Social Media</h3
+			<nav>
+			<a href="">
+				<img src="https://mimo.app/i/twitter.png">
+			</a>
+			<a href="">
+				<img src="https://mimo.app/i/linkedin.png">
+			</a>
+			</nav>
+			</footer>
+			<br>
+			<main>
+				<section>
+					<h3>Contact us</h3>
+					<p><a href="prabuhadiyo@gmail.com">prabu@example.com</a></p>
+				</section>
+			</main>
+			<br>
+		</div>
+		<div>
+			<header><h1>The Web Developer Podcast</h1></header>
+			<p>Wes Bos and Scott Tolinski are two full stack web developers who like to break down complex topics and make them easy to understand. They explain how they work and talk about their own experiences. They cover from Javascript frameworks like React, to the latest advancements in CSS to simplifying web tooling.</p>
+			<a href="">
+				<img src="https://mimo.app/i/hacker.png">
+				<p>The Best Podcast Ever!</p>
+			</a>
+		</div
+		<div>
+			<h1><header>The Plant Video Channel</header></h1>
+			<img src="https://mimo.app/i/plant.png">
+			<p>Let's learn how to make those plant grow.</p>
+			<footer>
+				Reach out our twitter<br>
+				<a href="https://twitter.com/getmimo"><img src="https://mimo.app/i/twitter.png"></a>
+				<p><em>Copyright 2022</em></p>
+			</footer>
+		</div>
+		<div>
+			<header><h1>Ryas Cookie Cart</h1></header>
+			<main>
+				<ul><strong>Menu :</strong></ul>
+				<li>Oatmeal</li>
+				<li>Sugar</li>
+				<li>Chocolate</li>
+				<li>Chip</li>
+				<br>
+				<ol><strong>Drink :</strong></ol>
+				<li>Milk</li>
+				<li>Soda</li>
+				<li>Water</li>
+			</main>
+		</div>
+		<div>
+			<h1>Painting of the Day</h1>
+			<figure><img src="https://mimo.app/i/scream.png" width="220" heigth="277">
+			<figcaption>The Scream</figcaption></figure>
+			<details>
+				<summary>Painted in 1893 by Edward Munch.</summary>
+				<p>The agonised face in the painting has become one of the most iconic image of art.</p>
+			</details>
+		</div>
+		<div>
+			<h1>Bug Ticketing System</h1>
+			<details>
+				<summary><strong>1020 - Button not clicking</strong></summary>
+				<p>When a user clicks on the submi button, nothing happens. It is supposed to show the massage "Information Saved."</p>
+			</details>
+			<details>
+				<summary><strong>System Requirements</strong></summary>
+				<p>Requires a computer running an operating system WINDOWS 7/8/10.<br>
+				The computer mus have some memory at least 1080mb.<br>
+				Storage requirements for some kind of long-term storage.</p>
+			</details>
+		</div>
+		<div>
+			<h1>Today in History</h1>
+			<figure>
+				<img src="https://mimo.app/t/moonlanding.png">
+				<figcaption>
+				<p>On <date>July 20, 1969</date>, American Astronout Neil Amstrong became the first person to walk on the moon.</p>
+				</figcaption>
+			</figure>
+		</div>
+	</body>
+</html>
