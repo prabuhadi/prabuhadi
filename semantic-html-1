@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<body>
+		<div>
+			<h2>You're Invited!</h2>
+			<p>The KitaBisa Cooperate will be celebrating their 10th Anniversary on <time>July 30</time></p>
+			<p>The party will be held at <time>5pm</time> and you'll be able to enjoy F&B and group of famous band for at least <time>2h 30m</time></p>
+			<p><em>The venue is located at</em></p>
+			<p><address>219 Raya Agung, Jakarta Selatan 41253</address></p>
+			<p>If you attend the party please <abbr>RSVP</abbr></p>
+		</div>
+		<br>
+		<br>
+		<div>
+			<head><strong>Physical Importance</strong></head>
+			<p>Winded by grocery shopping or household chores? Regular physical activity can improve your muscle strenth and boost your endurance.</p>
+			<p>Exercise deliverys oxygen and nutrients to your muscle tissue and helps your cardiosvacular system work more effeciently. And when your heart and lung helath improve, you have more energy to tackle daily chores.</p
+			<p><em>Visit our clinic:</em></p>
+			<h3>Office Hour</h3>
+			<p><time>9:00 AM</time> - <time>11:00 AM</time></p>
+		</div><br>
+		<p>Contact the author of this page:</p>
+		<address><a href="prabuhadiyo@gmail.com">prabu@email.com</a><br>
+		<a href="tel:+628439371222">(+62)8439-371-222</a></address>
+	</body>
+</html>
