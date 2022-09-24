@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+	<head><strong>Ryas blogspot.com</strong></head>
+	<body><div>
+		<header>Global Newsletter</header>
+		<main>
+		<h1>Great News!</h1>
+		<h2>A new flag for Earth has been designed</h2>
+		<h3>Jane Wish 2020</h3>
+		<p>After deep research, population on Earth estimated that belonging to nations does not make sense anymore and all countries will be able to show this flag as a show of unity around the globe.</p>
+		<p>For more information<p><button>Click Here!</button></div></p>
+		<br>
+		<h2>Recycling</h2>
+		<p>Recycling can be easier if you have the necessary means at home. Make sure to place your rubbish in different containers and to avoid mixing it up!</p>
+		<p>For more information<p><button>Click Here!</button></div></p>
+		<br>
+		</main>
+		<div>
+			<header><h1>Online Solid Shampoo</h1></header>
+			<nav>
+				<ul>
+					<li><a>Home</a></li>
+					<li><a>About</a></li>
+					<li><a>Cart</a></li>
+				</ul>
+			</nav>
+			<main>
+				<br>
+				<br>
+				<br>
+				<p>Try our brand new product! Your hair will be smooth as butter!</p>
+				<p>Here is some information on the product, but you can find more info pressing the button below.</p>
+				<button>Show more</button>
+				<br>
+				<p>You can also visit our website for more productS:</p>
+				<a href="httml://mimo.app.com/">Visit the supplier website</a>
+			</main>
+			<footer>
+				<ul>
+					<li>Creator</li>
+					<li>Contact</li>
+				</ul>
+			</footer>
+		</div>
+		<div>
+			<header>Online Zoo</header>
+			<main>
+				<h2>See the wilderst animals!</h2
+				<h3>Cat</h3>
+				<img src="https://mimo.app/t/bubu.png" alt="Cat in a backpack">
+			</main>
+		</div>
+	</body>
+</html>
