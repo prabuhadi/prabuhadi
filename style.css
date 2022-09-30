@@ -1,0 +1,53 @@
+body {
+    background-color:azure;
+    text-align:center;
+    font-family:'Poppins', sans-serif;
+    display:grid;
+}
+
+h3 {
+    background-color:gold;
+    padding:10px;
+}
+
+input {
+    padding:10px;
+    margin:10px;
+    font-family:Quicksand;
+}
+
+.subscribe {
+    padding:10px;
+    background-color:red;
+    border: none;
+    color:white;
+}
+
+.loginpage {
+    text-align:center;
+}
+
+.loginbutton {
+    padding:10px;
+    background-color:green;
+    border: none;
+    color: white;
+}
+
+.submitbutton {
+    padding:10px;
+    background-color:green;
+    border:none;
+    color:white;
+}
+
+.emailcontent {
+    height: 100px;
+}
+
+.sendbutton {
+    padding:10px;
+    background-color:green;
+    border:none;
+    color:white;
+}
