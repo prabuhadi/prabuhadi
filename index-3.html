@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href=
+        "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="style3.css"/>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-md">
+            <img class="navbar-brand" src="https://mimo.app/i/wakande.png"
+            width="220" height="80">
+        </nav>
+        <div class="container-fluid bg-light">
+            <div class="row p-3">
+                <div class="col-12">
+                        <h4 class="text-uppercase">Shopping Cart</h4>
+                </div>
+            </div>
+            <div class="row p-3">
+                <div class="col-12">
+                    <h6>1. Deluxe Burger</h6>
+                    <p>Ranch-inspired eatery, serving up gourmet burgers.</p>
+                    <p><strong>Quantity:</strong> <span id="number">1</span></p>
+                    <a href="javascript:add(-1)" class="btn btn-danger btn-sm">Remove -1</a>
+                    <a href="javascript:add(1)" class="btn btn-success btn-sm">Add +1</a>
+                </div>
+            </div>
+            <div class="row p-3">
+                <div class="col-12">
+                    <p class="text-center">Wakande ©2021</p>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            let currentValue = 1;
+            const add = function(valueToAdd)
+            {
+                currentValue += valueToAdd;
+                if (currentValue < 1) {
+                    currentValue = 1
+                }
+                document.getElementById("number").innerHTML = currentValue;
+            };
+        </script>
+    </body>
+</html>
