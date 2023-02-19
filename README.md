@@ -1,7 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
+    <img src="welcome.svg" style="width: 100%;" alt="Welcome">
 </div>
 
 - 👋 Hi, I’m Prabu Hadi Aryasetya. Please kindly support me i'm currently as web developer! 🙌
