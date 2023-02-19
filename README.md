@@ -1,3 +1,9 @@
+<div style="width: 100%;">
+  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+
 - 👋 Hi, I’m Prabu Hadi Aryasetya. Please kindly support me i'm currently as web developer! 🙌
 - 👀 I’m interested in Computer Programming since i was child and until now I still learning about computer and programs which until now the technologies era continues to develop 😁
 - 🌱 I’m currently learning HTML, CSS, JavaScript and other popular framework to build website or application. I hope i can contributes much this year and starting to grow my skill everyday! Hoping it's going well 😊
