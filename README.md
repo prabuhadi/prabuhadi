@@ -4,7 +4,16 @@
   </a>
 </div>
 <br/>
-<a href="https://app.daily.dev/prabuhadi"><img src="https://api.daily.dev/devcards/8323a7cd9de04a2b8e9e1ac47552701d.png?r=a5s" width="400" alt="Prabu's Dev Card"/></a>
+<a href="https://app.daily.dev/prabuhadi"><img src="https://api.daily.dev/devcards/8323a7cd9de04a2b8e9e1ac47552701d.png?r=a5s" align='right' width=400 alt="Prabu's Dev Card"/></a>
+
+# 📚 Recent bookmarks
+<!-- BOOKMARKS:START -->
+- [10 Habits of Highly Successful Software Developers](https://newrelic.com/blog/nerd-life/successful-software-developers-habits)
+- [The Alternative to Performance Reviews for Software Engineers](https://app.daily.dev/posts/ifoqKnBwi?utm_source=rss&utm_medium=bookmarks&utm_campaign=28849d86070e4c099c877ab6837c61f0)
+- [Understanding React hooks](https://api.daily.dev/r/ofnMFdrUq)
+- [Tools For Remote Developers](https://api.daily.dev/r/mMirWhUyV)
+- [7 Tools for Faster Development in React](https://api.daily.dev/r/ZX97REQIt)
+<!-- BOOKMARKS:END -->
 <br/>
 <hr/>
 - 👋 Hi, I’m Prabu Hadi Aryasetya. Please kindly support me i'm currently as web developer! 🙌 <br/>
